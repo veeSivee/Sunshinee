@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sunshinee</string>
+    <string name="hello_world">Hello I\'m Sunshine Project</string>
+    <string name="action_settings">Settings</string>
 </resources>
